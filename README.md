@@ -1,0 +1,1 @@
+# Text-to-Speech-and-QR-Code-Genetor-APP
